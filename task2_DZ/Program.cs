@@ -9,7 +9,7 @@ if (number1 > number2)
     {
         Console.WriteLine("Первое число больше второго");
     }
-if (number1 < number2)
+if (number1 < number2) // пустой комментарий
         {
             Console.WriteLine("Второе число больше первого");
         } 
@@ -17,3 +17,4 @@ if (number1 == number2)
     {
         Console.WriteLine("Числа равны");
     }
+    
