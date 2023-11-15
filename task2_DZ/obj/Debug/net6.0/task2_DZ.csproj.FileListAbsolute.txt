@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\bin\Debug\net6.0\task2_DZ.exe
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\bin\Debug\net6.0\task2_DZ.deps.json
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\bin\Debug\net6.0\task2_DZ.runtimeconfig.json
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\bin\Debug\net6.0\task2_DZ.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\bin\Debug\net6.0\task2_DZ.pdb
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\obj\Debug\net6.0\task2_DZ.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\obj\Debug\net6.0\task2_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\obj\Debug\net6.0\task2_DZ.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\obj\Debug\net6.0\task2_DZ.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\obj\Debug\net6.0\task2_DZ.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\obj\Debug\net6.0\task2_DZ.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\obj\Debug\net6.0\refint\task2_DZ.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\obj\Debug\net6.0\task2_DZ.pdb
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\obj\Debug\net6.0\task2_DZ.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\practice1_C#\task2_DZ\obj\Debug\net6.0\ref\task2_DZ.dll
