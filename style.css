@@ -5,3 +5,9 @@ body {
 
 /* 
 pfujkjdjr */
+
+* {
+
+    padding: 0;
+    visibility: hidden;
+}
